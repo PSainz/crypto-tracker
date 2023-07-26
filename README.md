@@ -1,11 +1,9 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-#### Here is a working live demo : https://crypto-tracker-price.netlify.app/
+<img width="1742" alt="Screenshot 2023-07-26 at 23 23 18" src="https://github.com/PSainz/crypto-tracker/assets/99868866/07e62809-2e65-414f-b949-7adaff13aadc">
 
-## Built with
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
-# Crypto-tracker
+#### Enjoy-> https://crypto-tracker-price.netlify.app/
+
+
